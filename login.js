@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
         if (validateLogin(email, password)) {
           alert('Đăng Nhập Thành công: Bạn có muốn vào trang chủ Real Madrid?');
-          window.location.href = 'TrangChu.html';
+          window.location.href = 'trangchu.html';
         } else {
           alert(' email hoặc password sai.');
         }
