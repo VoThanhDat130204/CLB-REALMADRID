@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image :url("img/rrr.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+   
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+    border-radius: 10px;
+    background-color: transparent;
+    backdrop-filter: blur(7px);
+    border-style:outset;
+    border-width: 0.5px;
+}
+
+.contact-form {
+    margin-bottom: 30px;
+}
+
+.contact-form h1 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.contact-history h2 {
+    font-size: 20px;
+    margin-top: 0;
+}
+
+.contact-history ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-history li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+#actions {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#actions .item {
+    margin-left:12px;
+}

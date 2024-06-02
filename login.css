@@ -1,0 +1,95 @@
+
+            body {
+              background-image :url("img/rrr.jpg");
+              background-size: cover;
+             
+              position:absolute;
+              width:100%;
+              height:100%;
+      
+            font-family: "Roboto", sans-serif;
+          }
+          
+          .signup-box {
+            width: 360px;
+            height: 580px;
+            margin: auto;
+            background-color: transparent;
+            backdrop-filter: blur(7px);
+            border-style:outset;
+            border-width: 0.5px;
+            margin-top: 100px;
+          }
+          
+          .login-box {
+            width: 360px;
+            height: 345px;
+            margin: auto;
+            border-radius: 5px;
+            background-color: transparent;
+            backdrop-filter: blur(7px);
+            border-style:outset;
+            border-width: 0.5px;
+            margin-top: 100px;
+          }
+          
+          h1 {
+            text-align: center;
+            padding-top: 15px;
+          }
+          
+          h4 {
+            text-align: center;
+          }
+          
+          form {
+            width: 300px;
+            margin-left: 20px;
+          }
+          
+          form label {
+            display: flex;
+            margin-top: 10px;
+            font-size: 18px;
+          }
+          
+          form input {
+            width: 100%;
+            padding: 7px;
+            border: none;
+            border: 1px solid gray;
+            border-radius: 6px;
+            outline: none;
+          }
+          input[type="button"] {
+            width: 320px;
+            height: 35px;
+            margin-top: 20px;
+            border: none;
+            background-color: #00aeee;
+            color: white;
+            font-size: 18px;
+          }
+          p {
+            text-align: center;
+            padding-top: 20px;
+            font-size: 15px;
+          }
+          .para-2 {
+            text-align: center;
+            color: rgb(0, 0, 0);
+            font-size: 15px;
+            margin-top: -10px;
+          }
+          .para-2 a {
+            color: #0093e2;
+          }
+          #actions {
+            display: flex;
+            margin-left: 50px;
+            margin-top: 5px;
+        }
+        
+        #actions .item {
+            margin-left:12px;
+        }

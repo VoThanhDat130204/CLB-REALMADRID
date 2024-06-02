@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name":" R01 ÁO ĐẤU SÂN NHÀ RMR-WHITE",
+        "price": 350,
+        "image": "img/sp5.png"
+    },
+    {
+        "id": 2,
+        "name":" R02 ÁO ĐÁU SÂN KHÁCH RMR-BLACK",
+        "price": 320,
+        "image": "img/sp2.png"
+    },
+    {
+        "id": 3,
+        "name":" R03 ÁO THI ĐAU GK RMR-RED",
+        "price": 320,
+        "image": "img/sp12.png"
+    },
+    {
+        "id": 4,
+        "name":" R04 ÁO ĐẤU SÂN KHÁCH RMR-PUR",
+        "price": 320,
+        "image": "img/sp4.png"
+    },
+    {
+        "id": 5,
+        "name":" RO5 GIÀY THỜI TRANG RMR-WHITE",
+        "price": 250,
+        "image": "img/sp3.png"
+    },
+    {
+        "id": 6,
+        "name":" R06 MŨ THỜI TRANG RMR-WHITE",
+        "price": 200,
+        "image": "img/sp6.png"
+    },
+    {
+        "id": 7,
+        "name":" R07 QUẢ BÓNG RMR-WHITE",
+        "price": 200,
+        "image": "img/sp10.png"
+    },
+    {
+        "id": 8,
+        "name":" RO8 KHĂNG CHOÀNG RMR",
+        "price": 200,
+        "image": "img/sp11.png"
+    },
+    {
+        "id": 9,
+        "name":" R09 ÁO HOODIE REAL MADRID-WHITE",
+        "price": 300,
+        "image": "img/sp17.png"
+    },
+    {
+        "id": 10,
+        "name":" R10 QUẦN JOGGER REAL MADRID-WHITE",
+        "price": 300,
+        "image": "img/sp14.png"
+    },
+    {
+        "id": 11,
+        "name":" R11 ÁO HOODIE REAL MADRID-BLACK",
+        "price": 300,
+        "image": "img/sp13.png"
+    },
+    {
+        "id": 12,
+        "name":" R12 QUẦN JOGGER REAL MADRID-BLACK",
+        "price": 300,
+        "image": "img/sp15.png"
+    }
+
+]
